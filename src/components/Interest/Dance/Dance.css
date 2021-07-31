@@ -1,0 +1,8 @@
+.dance {
+    /* display: flex; */
+    column-count: 4;
+  }
+
+  .dance__items {
+    flex: 1 1 auto;
+  }

@@ -1,0 +1,39 @@
+.trialcard {
+  display: flex;
+  margin: 20px;
+}
+.abc {
+  width: 500px;
+  height: 300px;
+  border-radius: 50px;
+}
+.details {
+  margin: 10px;
+}
+.details button {
+  /* background-color: #4CAF50; Green */
+  border: 2px solid #4caf50;
+  border-radius: 12px;
+  color: green;
+  padding: 10px 24px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 10px;
+  transition-duration: 0.4s;
+}
+.details button:hover {
+  background-color: grey; /* Green */
+  color: white;
+}
+.trialcard__user {
+  display: flex;
+  justify-content: space-between;
+}
+.price__ratings {
+  display: flex;
+  justify-content: space-around;
+}
+.userdetails {
+  flex: 0 0 50px;
+}

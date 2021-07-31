@@ -1,0 +1,8 @@
+.travel {
+    display: flex;
+    column-count: 5;
+  }
+
+  .travel__items {
+    flex: 1 1 auto;
+  }

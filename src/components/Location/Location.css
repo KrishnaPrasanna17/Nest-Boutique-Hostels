@@ -1,0 +1,16 @@
+.location__grid{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.loc_pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+figcaption {
+    padding: 2px;
+    text-align: center;
+  }

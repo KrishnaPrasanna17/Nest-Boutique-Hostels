@@ -1,0 +1,8 @@
+.music {
+    /* display: flex; */
+    column-count: 5;
+  }
+
+  .music__types {
+    flex: 1 1 auto;
+  }
